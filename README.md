@@ -42,3 +42,6 @@ Projeyi yerel makinenizde çalıştırmak için sisteminizde Java (JDK 8 veya ü
 3. Simülasyonu başlatın:
    ```bash
    java Main
+## Simülasyon Sonuçları
+
+Uygulama çalıştırıldığında, $10.000$ istek sonucunda 3 farklı algoritmanın ortalama gecikme sürelerini (ms) konsola yazdıracaktır. Çevreyi dinleyen ve öğrenen Softmax algoritmasının, açık çevrim (open-loop) çalışan Random ve Round-Robin algoritmalarına karşı belirgin bir performans üstünlüğü (minimum gecikme) sağladığı gözlemlenecektir.
